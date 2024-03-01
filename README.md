@@ -1,3 +1,5 @@
+<p align="center"> 
+<b>༺═════════[🔥🔥🔥]══════════༻</b>
 <p align="center">
 <img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" alt="BOT WHATSAPP" width="400"/>
 
