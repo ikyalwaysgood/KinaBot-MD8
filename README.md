@@ -6,8 +6,9 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Kιɳα Bσƚ | Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=51AAFF&lines=Hallo+Saya+IkyOfficial+;Maaf+masih+pemula😁;SELAMAT+MENGGUNAKAN+%F0%9F%92%95%F0%9F%8C%B9)](https://git.io/typing-svg)
- ------
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Kina+Bot+MD+8" alt="">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Penjelasan 
