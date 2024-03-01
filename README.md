@@ -21,18 +21,17 @@ Mongo gratis :
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-```bash
 web: node . --server
 db: node . --db "mongodb+srv://botwa:Jxrt6KiUNOOccDuo@cluster0.dytrn2e.mongodb.net/?retryWrites=true&w=majority" --autocleartmp --restrict
-```
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## ` BUILDPACKS`
 
-```
+
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 
