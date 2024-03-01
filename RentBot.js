@@ -23,7 +23,7 @@ async function start() {
 let { version, isLatest } = await fetchLatestBaileysVersion();
 const XeonBotInc = await makeWaSocket({
 auth: state,
-browser: [`Rent Bot By ${ownername}`, "Chrome", "1.0.0"],
+browser: [`Kina Bot By ${ownername}`, "Chrome", "1.0.0"],
 logger: log({ level: "silent" }),
 version,
 })
