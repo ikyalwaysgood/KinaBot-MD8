@@ -1,7 +1,7 @@
 <p align="center"> 
 <b>༺═════════[🔥🔥🔥]══════════༻</b>
 <p align="center">
-<img src="https://telegra.ph/file/5a9d33e6daff292833283.jpg" alt="Kιɳα Bσƚ" width="400"/>
+<img src="https://telegra.ph/file/790865abf3bec9ef356ad.jpg" alt="Kιɳα Bσƚ" width="400"/>
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Kιɳα Bσƚ | Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
