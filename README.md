@@ -48,7 +48,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## `Clone Repo & Installation dependencies`
-```bash
 git clone https://github.com/ikyalwaysgood/KinaBot-MD8.git
 cd KinaBot-MD8
 
