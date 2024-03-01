@@ -1,14 +1,14 @@
 <p align="center"> 
 <b>༺═════════[🔥🔥🔥]══════════༻</b>
 <p align="center">
-<img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" alt="BOT WHATSAPP" width="400"/>
+<img src="https://telegra.ph/file/5a9d33e6daff292833283.jpg" alt="Kιɳα Bσƚ" width="400"/>
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Kιɳα Bσƚ | Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Kina+Bot+MD+8" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Kιɳα+Bσƚ+MD+8" alt="">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Penjelasan 
