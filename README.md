@@ -36,6 +36,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -43,7 +45,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
-## `Clone Repo & Installation dependencies`
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/ikyalwaysgood/KinaBot-MD8.git
 cd KinaBot-MD8
@@ -66,8 +69,8 @@ git clone https://github.com/ikyalwaysgood/KinaBot-MD8
 cd KinaBot-MD8
 yarn install
 npm start
-```
-## `For VPS`
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)## `For VPS`
 ```bash
 apt install nodejs 
 apt install git 
@@ -82,4 +85,4 @@ npm start
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
