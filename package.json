@@ -1,5 +1,5 @@
 {
-  "name": "Cheems-Bot-MD",
+  "name": "Kina-Bot-MD",
   "version": "8.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2023",
+    "2024",
     "wabase-md",
     "base",
     "baileys-md",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGXeon",
+  "author": "Iky Official",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
@@ -93,10 +93,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/ikyalwaysgood/KinaBot-MD8.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/ikyalwaysgood/KinaBot-MD8/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/ikyalwaysgood/KinaBot-MD8/#readme"
 }
