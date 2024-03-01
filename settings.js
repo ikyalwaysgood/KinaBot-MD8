@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6285794908894'] //ur owner number
+global.ownernomer = "6285794908894" //ur owner number2
+global.ownername = "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ" //ur owner name
+global.ytname = "_" //ur yt chanel name
+global.socialm = "_" //ur github or insta name
+global.location = "Indonesia, Jakarta" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.botname = "Kιɳα Bσƚ"
+global.ownernumber = '6285794908894'
+global.ownername = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.ownerNumber = ["6285794908894@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wagc = "https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a"
+global.themeemoji = '🗿'
+global.wm = "Kιɳα Bσƚ"
+global.botscript = 'Makan ini aja🗿' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ\n\n"
+global.creator = "6285794908894@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'Ini dia!', 
 }
 
 let file = require.resolve(__filename)
