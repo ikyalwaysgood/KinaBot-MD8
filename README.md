@@ -46,15 +46,18 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)## `Clone Repo & Installation dependencies`
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/ikyalwaysgood/KinaBot-MD8.git
 cd KinaBot-MD8
 
 npm start
-```
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ## `For Termux/Ssh/Ubuntu`
-```bash
 apt update
 apt upgrade
 pkg update && pkg upgrade
@@ -70,8 +73,9 @@ cd KinaBot-MD8
 yarn install
 npm start
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)## `For VPS`
-```bash
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## `For VPS`
 apt install nodejs 
 apt install git 
 apt apt install ffmpeg 
@@ -81,8 +85,11 @@ apt install bash
 git clone https://github.com/ikyalwaysgood/KinaBot-MD8
 cd KinaBot-MD8
 npm start
-```
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ## `For 24/7 Activation (Termux)`
-```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
